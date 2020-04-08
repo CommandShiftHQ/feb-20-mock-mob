@@ -1,7 +1,7 @@
 # Feb20 Test Mocks Mob Coding
 
 # Challenge
-To develop a object contructor function for a electronic payment system (let's call it a Lobster Card).
+To develop a object constructor function for a electronic payment system on public transport (let's call it a Lobster Card).
 
 - It should have access to a range of ticket types.
 - It should be able to scan a payment card.
