@@ -1,0 +1,22 @@
+{
+  "name": "feb-20-mock-mob",
+  "version": "1.0.0",
+  "description": "# Challenge To develop a object constructor function for a electronic payment system on public transport (let's call it a Lobster Card).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCRcodes/feb-20-mock-mob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCRcodes/feb-20-mock-mob/issues"
+  },
+  "homepage": "https://github.com/MCRcodes/feb-20-mock-mob#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
